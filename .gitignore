@@ -1,3 +1,15 @@
-gsheets_ids.txt
 .env
 credentials.json
+*_credentials.json
+gsheets-backup-*.json
+gsheets_ids.txt
+
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+backups/
+test_backups/
+.env.server
+CLAUDE.md
